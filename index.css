@@ -1,0 +1,31 @@
+body{
+    font-family: fantasy;
+    background-color: #ffbc66;
+}
+
+h1 {
+    color: #f58646;
+}
+
+a{
+    color: rgb(240, 254, 130);
+}
+
+button{
+    background-color: rgb(172, 116, 12);
+    border-radius: 0.2rem;
+    border-style: none;
+    color: #ffbc66;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.my-photo{
+    width: 200px;
+    max-width: 720px;
+    border-radius: 1rem;
+}
+
+.footer{
+    font-size: 0.8rem;
+}
