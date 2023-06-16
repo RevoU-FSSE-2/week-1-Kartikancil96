@@ -11,12 +11,7 @@ a{
     color: rgb(240, 254, 130);
 }
 
-ul {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    margin-left: 60%;
-}
+
 
 button{
     background-color: rgb(172, 116, 12);
