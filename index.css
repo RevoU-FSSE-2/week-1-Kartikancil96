@@ -11,6 +11,13 @@ a{
     color: rgb(240, 254, 130);
 }
 
+ul {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    margin-left: 90%;
+}
+
 button{
     background-color: rgb(172, 116, 12);
     border-radius: 0.2rem;
